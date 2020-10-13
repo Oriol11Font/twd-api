@@ -1,10 +1,4 @@
 {
     "name": "Rick Grimes",
-    "age": 46,
-    "actor": "Andrew Lincoln",
-    "gender": "male",
-    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Rick_Grimes",
     "image": "https://static.wikia.nocookie.net/walkingdead/images/5/53/Season_nine_rick_grimes.png/",
-    "status": "Unknown",
-    "species": "human"
 }
