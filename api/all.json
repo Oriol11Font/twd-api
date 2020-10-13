@@ -1,35 +1,38 @@
 [
   {
-    "id": 1,
     "name": "Rick Grimes",
-    "age": 46,
-    "actor": "Andrew Lincoln",
-    "gender": "male",
-    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Rick_Grimes",
-    "image": "https://vignette.wikia.nocookie.net/thewalkingdead/images/c/cb/TWD9_Andrew_0048_RT-700x1000.jpg/revision/latest/scale-to-width-down/350?cb=20180915005507&path-prefix=es",
-    "status": "Unknown",
-    "species": "human"
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/5/53/Season_nine_rick_grimes.png/"
   },
   {
-    "id": 2,
     "name": "Daryl Dixon",
-    "age": 40,
-    "actor": "Norman Reedus",
-    "gender": "male",
-    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Daryl_Dixon",
-    "image": "/shttps://vignette.wikia.nocookie.net/thewalkingdead/images/f/f0/ProfileT10_Daryl.jpg/revision/latest/scale-to-width-down/341?cb=20200222122806&path-prefix=es",
-    "status": "alive",
-    "species": "human"
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/3/33/Season_ten_daryl_dixon.png/"
   },
   {
-    "id": 3,
-    "name": "Daryl Dixon",
-    "age": 40,
-    "actor": "Norman Reedus",
-    "gender": "male",
-    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Daryl_Dixon",
-    "image": "/shttps://vignette.wikia.nocookie.net/thewalkingdead/images/f/f0/ProfileT10_Daryl.jpg/revision/latest/scale-to-width-down/341?cb=20200222122806&path-prefix=es",
-    "status": "alive",
-    "species": "human"
+    "name": "Carol Peletier",
+    "image": "https://vignette.wikia.nocookie.net/walkingdead/images/9/9e/Season_ten_carol_peletier.png"
+  },
+  {
+    "name": "Glenn Rhee",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/2/25/GlennRheeS7.jpg"
+  },
+  {
+    "name": "Carl Grimes",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/6/67/Season_eight_carl_grimes.png/"
+  },
+  {
+    "name": "Maggie Greene",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/a/a6/Season_ten_maggie_rhee.png"
+  },
+  {
+    "name": "Michonne",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/c/c1/Season_ten_michonne.png/"
+  },
+  {
+    "name": "Hershel Greene",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/e/ec/Season_four_hershel_greene.png/"
+  },
+  {
+    "name": "Eugene Porter",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/9/92/Season_ten_eugene_porter.png/"
   }
 ]
