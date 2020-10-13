@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Grimes",
+    "age": 46,
+    "actor": "Andrew Lincoln",
+    "gender": "male",
+    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Rick_Grimes",
+    "image": "https://vignette.wikia.nocookie.net/thewalkingdead/images/c/cb/TWD9_Andrew_0048_RT-700x1000.jpg/revision/latest/scale-to-width-down/350?cb=20180915005507&path-prefix=es",
+    "status": "Unknown",
+    "species": "human"
+  },
+  {
+    "id": 2,
+    "name": "Daryl Dixon",
+    "age": 40,
+    "actor": "Norman Reedus",
+    "gender": "male",
+    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Daryl_Dixon",
+    "image": "/shttps://vignette.wikia.nocookie.net/thewalkingdead/images/f/f0/ProfileT10_Daryl.jpg/revision/latest/scale-to-width-down/341?cb=20200222122806&path-prefix=es",
+    "status": "alive",
+    "species": "human"
+  },
+  {
+    "id": 3,
+    "name": "Daryl Dixon",
+    "age": 40,
+    "actor": "Norman Reedus",
+    "gender": "male",
+    "wiki": "https://thewalkingdead.fandom.com/es/wiki/Daryl_Dixon",
+    "image": "/shttps://vignette.wikia.nocookie.net/thewalkingdead/images/f/f0/ProfileT10_Daryl.jpg/revision/latest/scale-to-width-down/341?cb=20200222122806&path-prefix=es",
+    "status": "alive",
+    "species": "human"
+  }
+]
